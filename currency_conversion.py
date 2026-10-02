@@ -98,7 +98,7 @@ def main():
         else:
             print("Unrecognized command!")
 
-#main()
+main()
 ####testing the functions 
 #currencies = get_currencies()
 #print_currencies(currencies)
